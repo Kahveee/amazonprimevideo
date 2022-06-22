@@ -1,0 +1,175 @@
+
+#header{
+    width: 2500px;
+    height: 80px;
+    background-color: #131A22;
+    margin-top: -8px;
+    margin-left: -8px;
+}
+
+#logo{
+    width: 120px;
+    height: 50px;
+    margin-top: -65px;
+    margin-left: 50px;
+}
+
+#article{
+    width: 2000px;
+    margin-left: -10px;
+
+}
+
+.baslık{
+    margin-top: -5px;
+}
+
+
+.resimYazisi {
+    font-size: 45px;
+    position:absolute;
+    margin-top: 120px;
+    margin-left: 1100px;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.resimYazisii {
+    font-size: 23px;
+    position:absolute;
+    margin-top: 200px;
+    margin-left: 1100px;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.resimYazisiii {
+    font-size: 23px;
+    position:absolute;
+    margin-top: 275px;
+    margin-left: 1050px;
+    color: rgb(19, 17, 17);
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.now {
+    font-size: 45px;
+    position:absolute;
+    margin-top: 200px;
+    margin-left: 1050px;
+    color: rgb(19, 17, 17);
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.veya {
+    font-size: 23px;
+    position:absolute;
+    margin-top: 390px;
+    margin-left: 1100px;
+    color: white;
+}
+
+
+.warn {
+    font-size: 15px;
+    position:absolute;
+    margin-top: 600px;
+    margin-left: 1100px;
+    color: white;
+}
+
+
+#firstbutton{
+
+    background-color: #3780d3;
+    border: none;
+    position:absolute;
+    color: white;
+    margin-top: 330px;
+    margin-left: 1100px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+#secondbutton{
+    width:275px;
+    background-color: #3780d3;
+    border: none;
+    position:absolute;
+    color: white;
+    margin-top: 430px;
+    margin-left: 1100px;
+    padding: 20px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#thirdbutton{
+    width:375px;
+    background-color: #3780d3;
+    border: none;
+    position:absolute;
+    color: white;
+    margin-top: 350px;
+    margin-left: 1050px;
+    padding: 20px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#secondarticle{
+    width: 2000px;
+    margin-left: -10px;
+}
+
+#son{
+    width: 2000px;
+    height: 500px;
+    background-color: white;
+
+}
+
+.one{
+    margin-top: 50px;
+    margin-left: 300px;
+
+}
+
+.two{
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+
+.three{
+    margin-top: 50px;
+    margin-left: 220px;
+}
+
+#sonilk{
+    height: 150px;
+}
+
+.onee{
+    margin-top: 200px;
+    margin-left: 270px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.twoo{
+    margin-top: 40px;
+    margin-left: 270px;
+}
