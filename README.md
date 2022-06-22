@@ -1,3 +1,3 @@
 # amazonprimevide
 Deneme:)
-<hr>
+<hr color="red">
